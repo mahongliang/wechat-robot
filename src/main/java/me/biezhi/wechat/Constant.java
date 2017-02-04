@@ -15,6 +15,7 @@ public class Constant {
 	public static final String QRCODE_URL = "https://login.weixin.qq.com/qrcode/";
 	
 	public static final String ITPK_API = "http://i.itpk.cn/api.php";
+	public static final String XIAO_HUA = "笑话";
 	
 	// 特殊用户 须过滤
 	public static final List<String> FILTER_USERS = Arrays.asList("newsapp", "fmessage", "filehelper", "weibo", "qqmail", 
